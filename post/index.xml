@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Eigenrouter.nl</title>
+    <link>https://eigenrouter.nl/post/</link>
+    <description>Recent content in Posts on Eigenrouter.nl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://eigenrouter.nl/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Help Mee Met Het Project</title>
+      <link>https://eigenrouter.nl/post/meehelpen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eigenrouter.nl/post/meehelpen/</guid>
+      <description>Help ons mee!</description>
+    </item>
+    
+    <item>
+      <title>Mikrotik</title>
+      <link>https://eigenrouter.nl/post/mikrotik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eigenrouter.nl/post/mikrotik/</guid>
+      <description>Mikrotik Configs</description>
+    </item>
+    
+    <item>
+      <title>OPNsense</title>
+      <link>https://eigenrouter.nl/post/opnsense/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eigenrouter.nl/post/opnsense/</guid>
+      <description>OPNsense Configs</description>
+    </item>
+    
+    <item>
+      <title>pfSense</title>
+      <link>https://eigenrouter.nl/post/pfsense/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eigenrouter.nl/post/pfsense/</guid>
+      <description>pfSense Configs</description>
+    </item>
+    
+  </channel>
+</rss>
