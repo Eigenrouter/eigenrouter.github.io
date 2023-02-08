@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://eigenrouter.nl/</loc>
+    <lastmod>2023-02-08T16:21:16+01:00</lastmod>
+  </url><url>
+    <loc>https://eigenrouter.nl/post/</loc>
+    <lastmod>2023-02-08T16:21:16+01:00</lastmod>
+  </url><url>
+    <loc>https://eigenrouter.nl/post/providers/</loc>
+    <lastmod>2023-02-08T15:57:18+01:00</lastmod>
+  </url><url>
     <loc>https://eigenrouter.nl/readme/</loc>
     <priority>0</priority>
   </url><url>
     <loc>https://eigenrouter.nl/categories/</loc>
-  </url><url>
-    <loc>https://eigenrouter.nl/</loc>
-    <lastmod>2023-02-02T11:09:35+01:00</lastmod>
   </url><url>
     <loc>https://eigenrouter.nl/post/meehelpen/</loc>
     <lastmod>2023-02-01T14:37:52+01:00</lastmod>
@@ -17,13 +23,10 @@
     <lastmod>2023-02-01T23:34:14+01:00</lastmod>
   </url><url>
     <loc>https://eigenrouter.nl/post/opnsense/</loc>
-    <lastmod>2023-02-02T11:09:35+01:00</lastmod>
+    <lastmod>2023-02-08T16:21:16+01:00</lastmod>
   </url><url>
     <loc>https://eigenrouter.nl/post/pfsense/</loc>
     <lastmod>2023-02-02T11:06:23+01:00</lastmod>
-  </url><url>
-    <loc>https://eigenrouter.nl/post/</loc>
-    <lastmod>2023-02-02T11:09:35+01:00</lastmod>
   </url><url>
     <loc>https://eigenrouter.nl/tags/</loc>
   </url>
